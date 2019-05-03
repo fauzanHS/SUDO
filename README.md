@@ -1,0 +1,2 @@
+# SUDO
+Instal termmux sudo
